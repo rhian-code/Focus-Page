@@ -99,7 +99,7 @@ nav ul a{
 }
 .welcome{
     height:1080px;
-    background: url(/imagens/gerald-berliner-Br0UDTYATQc-unsplash\ 1.png);
+    background: url(./imagens/gerald-berliner-Br0UDTYATQc-unsplash.png);
     background-size: cover;
     display: flex;
     flex-direction: column;
